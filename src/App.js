@@ -5,7 +5,7 @@ import Expenses from "./components/Expenses/Expenses";
 
 function App() {
   const expenses = [
-    { title: "Car Insurance", amount: 30.1, date: new Date(2021, 2, 21) },
+    { title: "paper", amount: 30.1, date: new Date(2021, 2, 21) },
     { title: "House Insurance", amount: 34.1, date: new Date(2022, 6, 21) },
     { title: "Land", amount: 50.1, date: new Date(2021, 8, 21) },
     { title: "Hotel", amount: 10.1, date: new Date(2020, 10, 21) },
